@@ -83,7 +83,7 @@
 &trans      &trans        &trans        &trans        &trans        &trans          &trans  &trans  &trans       &trans  &trans  &trans
 &trans      &trans        &trans        &trans        &trans        &trans          &trans  &trans  &trans       &trans  &trans  &trans
 &trans      &trans        &trans        &trans        &trans        &trans          &trans  &trans  &trans       &trans  &trans  &trans
-                                        &trans        &trans        &trans          &trans  &trans  &bootloader
+                                        &kp LGUI      &trans        &trans          &trans  &trans  &bootloader
             >;
         };
     };
